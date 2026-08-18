@@ -38,20 +38,23 @@
 ---
 
 ## 🔥 GitHub Streak
+---
+
+## 🔥 GitHub Streak
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=suryapratapok&theme=dark&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=suryapratapok&theme=dark&hide_border=true&background=000000&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🟩 Contribution Calendar
+## 🟩 GitHub Contributions
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/39d353/suryapratapok" alt="GitHub Contribution Calendar" />
+<img src="https://ghchart.rshah.org/39d353/suryapratapok" alt="Suryapratap GitHub Contributions" />
 
 </div>
 
@@ -61,7 +64,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=suryapratapok&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area_color=39d353&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=suryapratapok&bg_color=000000&color=39d353&line=39d353&point=ffffff&area_color=39d353&area=true&hide_border=true" width="95%" />
 
 </div>
 
@@ -69,10 +72,6 @@
 
 <div align="center">
 
-### 💚 Keep Coding. Keep Building. Keep Growing. 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=39d353&height=100&section=footer"/>
+### 💚 Keep Coding • Keep Building • Keep Growing 🚀
 
 </div>
-
-
