@@ -11,17 +11,67 @@
 
 <div align="center">
 
-## 🟩 GitHub Contributions
+# 👋 Hi, I'm Suryapratap
 
-<img src="https://ghchart.rshah.org/39d353/suryapratapok" alt="GitHub Contributions" />
+### 💻 Developer • 🚀 Builder • 🧠 Problem Solver
+
+<img src="https://komarev.com/ghpvc/?username=suryapratapok&label=Profile%20Views&color=39d353&style=for-the-badge" />
+
+<br><br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-suryapratapok-181717?style=for-the-badge&logo=github)](https://github.com/suryapratapok)
+
+</div>
+
+---
+
+## 🚀 GitHub Overview
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=suryapratapok&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&ring_color=39d353" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryapratapok&layout=compact&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" height="180"/>
+
+</div>
+
+---
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=suryapratapok&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<div align="center">
 
-## 📈 Contribution Graph
+[![GitHub Streak](https://streak-stats.demolab.com?user=suryapratapok&theme=dark&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353)](https://git.io/streak-stats)
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=suryapratapok&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&hide_border=true)
+</div>
+
+---
+
+## 🟩 Contribution Calendar
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/39d353/suryapratapok" alt="GitHub Contribution Calendar" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=suryapratapok&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area_color=39d353&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💚 Keep Coding. Keep Building. Keep Growing. 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=39d353&height=100&section=footer"/>
 
 </div>
 
