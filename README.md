@@ -11,16 +11,18 @@
 
 <div align="center">
 
-## 📊 GitHub Stats
+## 🟩 GitHub Contributions
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suryapratapok&show_icons=true&theme=tokyonight&hide_border=true)
+<img src="https://ghchart.rshah.org/39d353/suryapratapok" alt="GitHub Contributions" />
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=suryapratapok&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=suryapratapok&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-## 🟩 Contribution Graph
+## 📈 Contribution Graph
 
-![Suryapratap's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=suryapratapok&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&hide_border=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=suryapratapok&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&hide_border=true)
 
 </div>
+
+
