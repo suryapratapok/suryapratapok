@@ -19,8 +19,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=suryapratapok&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-## 📈 Contributions
+## 🟩 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=suryapratapok&theme=tokyo-night&hide_border=true)
+![Suryapratap's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=suryapratapok&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&hide_border=true)
 
 </div>
