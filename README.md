@@ -1,77 +1,114 @@
-# 💫 About Me:
-## About Me<br><br>👨‍💻 IT Student | Python Developer in Progress<br><br>I’m an Information Technology student passionate about software development and problem-solving. I’m currently learning **Python, HTML, CSS**, and core software development concepts while building my programming skills through hands-on projects.<br><br>🚀 Interested in Software Development, Web Development & Technology<br>📚 Continuously learning and improving my coding skills<br>🔧 Exploring projects and practical applications of programming<br><br>**Skills:** Python • HTML • CSS • Core Software Concepts • Git & GitHub<br>
+# 👋 Hey, I'm Surya Pratap
 
+### 💻 IT Student | Java • Python • HTML • CSS | Aspiring Software Developer
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suryaa_pratap_singhh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/surya-pratap-singh-a447b5418/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suryapratapok@gmail.com) 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Surya%20Pratap&fontSize=45&fontAlignY=35&animation=twinkling"/>
+</p>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-# 📊 GitHub Stats:
-
-<div align="center">
-
-# 👋 Hi, I'm Suryapratap
-
-### 💻 Developer • 🚀 Builder • 🧠 Problem Solver
-
-<img src="https://komarev.com/ghpvc/?username=suryapratapok&label=Profile%20Views&color=39d353&style=for-the-badge" />
-
-<br><br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-suryapratapok-181717?style=for-the-badge&logo=github)](https://github.com/suryapratapok)
-
-</div>
+<p align="center">
+  <a href="https://github.com/suryapratapok">
+    <img src="https://komarev.com/ghpvc/?username=suryapratapok&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+  </a>
+</p>
 
 ---
 
-## 🚀 GitHub Overview
+## 🚀 About Me
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=suryapratapok&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&ring_color=39d353" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryapratapok&layout=compact&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" height="180"/>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=suryapratapok&theme=dark&hide_border=true&background=000000&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888)](https://git.io/streak-stats)
-
-</div>
+* 🎓 IT Student
+* 💻 Currently learning **Java, Python, HTML & CSS**
+* 🌱 Improving my **problem-solving and software development skills**
+* 🔥 Building projects and contributing to GitHub consistently
+* 🎯 Goal: Become a strong software developer
+* ⚡ I enjoy turning ideas into working projects
 
 ---
 
-## 🟩 GitHub Contributions
+## 🛠️ Tech Stack
 
-<div align="center">
-
-<img src="https://ghchart.rshah.org/39d353/suryapratapok" alt="Suryapratap GitHub Contributions" />
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,git,github,vscode&perline=7"/>
+</p>
 
 ---
 
-## 📈 Contribution Activity
+# 📊 GitHub Statistics
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=suryapratapok&bg_color=000000&color=39d353&line=39d353&point=ffffff&area_color=39d353&area=true&hide_border=true" width="95%" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suryapratapok&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryapratapok&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+</p>
 
 ---
 
-<div align="center">
+# 🔥 GitHub Streak
 
-### 💚 Keep Coding • Keep Building • Keep Growing 🚀
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=suryapratapok&theme=tokyonight&hide_border=true&border_radius=10" width="70%"/>
+</p>
 
-</div>
+---
+
+# 🟩 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suryapratapok&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</p>
+
+---
+
+# 📈 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/suryapratapok/suryapratapok/output/github-contribution-grid-snake.svg" width="95%"/>
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=suryapratapok&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7"/>
+</p>
+
+---
+
+# 💻 Coding Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=suryapratapok&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📌 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/suryapratapok">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suryapratapok&repo=YOUR-REPOSITORY-NAME&theme=tokyonight&hide_border=true"/>
+  </a>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/suryapratapok">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+<p align="center">
+  ⭐ <b>Thanks for visiting my profile!</b> ⭐
+</p>
+
+
+
